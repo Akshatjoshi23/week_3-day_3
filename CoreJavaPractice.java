@@ -1,3 +1,4 @@
+import java.util.*;
 class Employee{
      String name;
     private int[] ratings;
@@ -42,7 +43,7 @@ class Employee{
         }
     }
 }
-public class CoreJavaCode{
+public class CoreJavaPractice{
     public static void main(String[] args) {
         int[] ratings = {8,9,10};
         Employee e1=new Employee("Akshat", ratings);
