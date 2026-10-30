@@ -1,0 +1,5 @@
+Startegy Patterns are interchangable algorithms in its own class behind a 
+common interface so the caller can pick or swap one at runtime.
+it has three parts->(1) Strategy(interface)
+(2) Concrete Strategies 
+and (3) Context
